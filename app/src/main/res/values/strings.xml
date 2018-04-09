@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="owner_name">Ignacio Sambataro</string>
+    <string name="dev_language">Android Developer</string>
+    <string name="callme">Call me</string>
+
+    <string name="about_info">INFORMATION ABOUT ME.</string>
+    <string name="contact_info">PHONE NUMBER or LINKEDIN.</string>
+    <string name="skill_info">A TON OF SKILLS.</string>
+    <string name="work_info">WORK ALL OVER THE PLACE.</string>
+
+</resources>
